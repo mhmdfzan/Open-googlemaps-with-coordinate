@@ -1,0 +1,11 @@
+http://maps.google.com/maps?q=LAT, LONG
+
+example:
+LAT : -0.5017804
+LONG : 117.1393089
+
+<HTML>
+<a href="http://maps.google.com/maps?q=-0.5017804, 117.1393089" class="button">Koordinate Samarinda</a>
+</HTML>
+
+Noted: to get coordinate maps, go to https://www.gps-coordinates.net/
